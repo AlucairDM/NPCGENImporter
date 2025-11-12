@@ -1,0 +1,20 @@
+{
+  "id": "pf2e-creature-importer",
+  "title": "PF2E Creature Importer",
+  "description": "Import Pathfinder 2E creatures using JSON input",
+  "version": "1.0.0",
+  "authors": [{"name": "YourName"}],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": ["pf2e"]
+  },
+  "esmodules": ["scripts/main.js"],
+  "styles": [],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "MIT"
+}
