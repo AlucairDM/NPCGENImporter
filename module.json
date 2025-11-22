@@ -14,7 +14,12 @@
     "verified": "13"
   },
   "relationships": {
-    "systems": ["pf2e"]
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
   },
   "esmodules": ["scripts/main.js"],
   "styles": [],
