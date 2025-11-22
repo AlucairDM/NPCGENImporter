@@ -1,5 +1,5 @@
 {
-  "id": "NPC GEN Importer",
+  "id": "npcgen-importer",
   "title": "NPC GEN Importer",
   "description": "Import Pathfinder 2E creatures from npc-gen.com",
   "version": "1.0.0",
