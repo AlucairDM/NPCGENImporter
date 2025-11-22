@@ -3,18 +3,23 @@
   "title": "PF2E Creature Importer",
   "description": "Import Pathfinder 2E creatures using JSON input",
   "version": "1.0.0",
-  "authors": [{"name": "YourName"}],
+    "authors": [
+    {
+      "name": "AlucairDM",
+      "url": "https://npc-gen.com"
+    }
+  ],
   "compatibility": {
     "minimum": "10",
-    "verified": "11"
+    "verified": "13"
   },
   "relationships": {
     "systems": ["pf2e"]
   },
   "esmodules": ["scripts/main.js"],
   "styles": [],
-  "url": "",
-  "manifest": "",
-  "download": "",
+"url": "https://github.com/AlucairDM/NPCGENImporter",
+  "manifest": "https://raw.githubusercontent.com/AlucairDM/NPCGENImporter/main/module.json",
+  "download": "https://github.com/AlucairDM/NPCGENImporter/releases/latest/download/module.zip",
   "license": "MIT"
 }
